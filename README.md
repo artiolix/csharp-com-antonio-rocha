@@ -10,7 +10,7 @@ Este repositório contém minhas anotações, exercícios e projetos do curso de
 - Condicionais
 - Entrada e saída de dados
 - Estruturas de controle
-- ...
+- Estrutura Condicional: If-Else
 
 ## 📁 Estrutura do repositório
 
