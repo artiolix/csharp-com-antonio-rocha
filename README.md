@@ -20,4 +20,4 @@ Este repositório contém minhas anotações, exercícios e projetos do curso de
 
 ---
 
-📌 Curso disponível no canal [Antônio Rocha](https://www.youtube.com/@AntonioRocha) no YouTube.
+📌 Curso disponível no canal [Antônio Rocha](https://www.youtube.com/@AntonioRochaDev) no YouTube.
