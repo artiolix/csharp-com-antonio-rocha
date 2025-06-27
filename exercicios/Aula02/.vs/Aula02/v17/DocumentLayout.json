@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\artio\\OneDrive\\Documentos\\Curso-Csharp-Dotnet\\Projeto02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{019D6A89-A4CB-4183-B107-C4A07102F3A1}|Projeto02\\Projeto02.csproj|c:\\users\\artio\\onedrive\\documentos\\curso-csharp-dotnet\\projeto02\\projeto02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019D6A89-A4CB-4183-B107-C4A07102F3A1}|Projeto02\\Projeto02.csproj|solutionrelative:projeto02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\artio\\OneDrive\\Documentos\\Curso-Csharp-Dotnet\\Projeto02\\Projeto02\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto02\\Program.cs",
+              "ToolTip": "C:\\Users\\artio\\OneDrive\\Documentos\\Curso-Csharp-Dotnet\\Projeto02\\Projeto02\\Program.cs",
+              "RelativeToolTip": "Projeto02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T18:12:09.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

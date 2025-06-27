@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\artio\\OneDrive\\Documentos\\Curso-Csharp-Dotnet\\Aula01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{085A68B8-F20B-4BE1-A812-5D85E111F0E1}|Aula01\\Aula01.csproj|c:\\users\\artio\\onedrive\\documentos\\curso-csharp-dotnet\\aula01\\aula01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085A68B8-F20B-4BE1-A812-5D85E111F0E1}|Aula01\\Aula01.csproj|solutionrelative:aula01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\artio\\OneDrive\\Documentos\\Curso-Csharp-Dotnet\\Aula01\\Aula01\\Program.cs",
+              "RelativeDocumentMoniker": "Aula01\\Program.cs",
+              "ToolTip": "C:\\Users\\artio\\OneDrive\\Documentos\\Curso-Csharp-Dotnet\\Aula01\\Aula01\\Program.cs",
+              "RelativeToolTip": "Aula01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T17:48:42.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
